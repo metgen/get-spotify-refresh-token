@@ -9,7 +9,7 @@ sp = spotipy.Spotify(
         client_id=config["SPOTIFY_CLIENT_ID"],
         client_secret=config["SPOTIFY_CLIENT_SECRET"],
         redirect_uri=config["SPOTIFY_REDIRECT_URI"],
-        scope="playlist-modify-private",
+        scope="user-read-currently-playing",
     )
 )
 
