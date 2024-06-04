@@ -64,7 +64,7 @@ You will see the virtual environment name (e.g., "spotify-env") in your command 
 1. Clone this repository to your local machine.
 
 ```bash
-git clone https://github.com/arnvgh/get-spotify-refresh-token
+git clone https://github.com/metgen/get-spotify-refresh-token.git
 ```
 
 2. Navigate to the project directory.
